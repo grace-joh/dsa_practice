@@ -1,5 +1,5 @@
-# Mod 4 Tech Challenges
-[Prompts](https://mod4.turing.edu/projects/tech_challenges/)
+### List of Problems Solved
 
-* 8/2/23 *
-- Millions of Numbers (solo)
+* [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+* [Missing Number](https://leetcode.com/problems/missing-number/)
+* [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
